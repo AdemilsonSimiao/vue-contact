@@ -1,0 +1,30 @@
+{
+  "contatos": [
+    {
+      "id": "D6BNdWnHJ",
+      "nome": "teste1",
+      "company": "YouTeste",
+      "email": "teste1@teste.com",
+      "titulo": "teste",
+      "celular": "234567890",
+      "foto": "data:image/png;base64,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",
+      "grupoId": "1"
+    },
+    {
+      "nome": "Carla",
+      "company": "candy",
+      "email": "luanaskinha@hotmail.com",
+      "titulo": "doces",
+      "celular": "34567890",
+      "foto": "https://cdn-icons-png.flaticon.com/512/23/23141.png",
+      "grupoId": "1",
+      "id": "AQoM1v5"
+    }
+  ],
+  "grupos": [
+    {
+      "id": "1",
+      "nome": "Colegio"
+    }
+  ]
+}
